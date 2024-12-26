@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .card {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .btn {
+    font-size: 14px;
+  }
+  
+  .text-muted {
+    color: #6c757d !important;
+  }
+  
